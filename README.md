@@ -13,3 +13,7 @@
 	* 18CS45 - Object Oriented Concepts
 	
 	* 18CS46 - Data Communication
+	
+	* 18CSL47 - Design and Analysis of Algorithm Laboratory
+	
+	* 18CSL48 - Microcontroller and Embedded Systems Laboratory
